@@ -1,48 +1,46 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Interested in carbon cycling, dissolved organic matter, and arctic systems.  
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: PhD in Earth Sciences (Water)
+    institution: University of Waterloo
+    year: 2019
+  - course: MSc in Geochemistry & Isotopes
+    institution: University of Waterloo
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: BSc in Environmental Geosciences
+    institution: University of Calgary
+    year: 2010
+email: "aukes.pieter@gmail.com"
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-name: Nelson Bighetti
+- Dissolved organic matter  
+- Arctic systems  
+- Biogeochemistry  
+- Science communication  
+name: Pieter J. K. Aukes
 organizations:
-- name: Stanford University
+- name: Wilfrid Laurier University
   url: ""
-role: Professor of Artificial Intelligence
+role: Postdoctoral Fellow  
 social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/pieteraukes
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.ca/citations?user=rC70fQ0AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/paukes
 superuser: true
 user_groups:
 - Researchers
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Pieter Aukes is currently a Postdoctoral Fellow at Wilfrid Laurier University. He is interested in how a changing climate influences carbon cycling in arctic and sub-arctic systems, specifically through the impact on carbon fate, ecosystem functioning, and drinking water quality.
