@@ -43,4 +43,6 @@ user_groups:
 - Visitors
 ---
 
-Pieter Aukes is currently a Postdoctoral Fellow at Wilfrid Laurier University. He is interested in how a changing climate influences carbon cycling in arctic and sub-arctic systems, specifically through the impact on carbon fate, ecosystem functioning, and drinking water quality.
+Hey there! Thanks for the interest in my work. Here you'll find links and info to all my current research activities. In short, I'm interested in how a changing climate influences carbon cycling in arctic and sub-arctic systems.
+
+I am currently a Postdoctoral Fellow at Wilfrid Laurier University, working with [Dr. Jason Venkiteswaran](https://jjvenky.github.io/#jjvenky.github.io) and [Dr. Sherry Schiff](https://uwaterloo.ca/environmental-geochemistry/). My research involves field work and laboratory experiments to gain a better understanding of the processes governing carbon fate and the influence of carbon on ecosystem functioning and drinking water quality.
