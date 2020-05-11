@@ -10,7 +10,7 @@ tags:
 date: "2020-08-07T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+# external_link: ""
 
 image:
   caption: Subsurface water sampling at Daring Lake, NT.
