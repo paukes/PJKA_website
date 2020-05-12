@@ -21,7 +21,8 @@ image:
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
+#   Otherwise, set `slides = ""`
+slides: ""
 ---
 
 Little data exist on carbon cycling across taiga shield lakes in sub-arctic Canada. Funded by NSERC - Advancing Climate Change Science in Canada, this project pairs field-based research with laboratory incubations to create process-based knowledge of carbon fate in sub-arctic lakes.
