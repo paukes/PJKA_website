@@ -6,7 +6,7 @@ tags:
 - DOM
 - Drinking water quality
 - Northwest Territories
-date: "2020-08-07T00:00:00Z"
+date: "2020-05-01"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
