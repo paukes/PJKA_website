@@ -28,7 +28,7 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "Carbon Cycling"
-    tag = Carbon cycling"
+    tag = "Carbon cycling"
   
   [[content.filter_button]]
     name = "Water Quality"
