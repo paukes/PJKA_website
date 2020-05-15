@@ -5,7 +5,7 @@ tags:
 - DOM
 - DOM composition
 - Metal mobility
-- Yellowknife, NT
+- Yellowknife
 date: "2020-05-01"
 
 # Optional external URL for project (replaces project detail page).
