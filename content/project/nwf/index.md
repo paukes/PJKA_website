@@ -1,11 +1,7 @@
 ---
 title: Disinfection By-Products and Dissolved Organic Matter
 summary: What does it mean for northern drinking water if the amount and form of DOM changes with a warming climate?
-tags:
-- DBP
-- DOM
-- Drinking water quality
-- Northwest Territories
+tags: [DBP, Water quality, Northwest Territories, DOM composition]
 date: "2020-05-01"
 
 # Optional external URL for project (replaces project detail page).

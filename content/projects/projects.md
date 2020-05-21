@@ -32,8 +32,8 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "Water Quality"
-    tag = "Metal mobility"
-    
+    tag = "Water quality"
+
   [[content.filter_button]]
     name = "Carbon Quality"
     tag = "DOM composition"

@@ -1,12 +1,8 @@
 ---
 title: Changing Carbon Sinks in Sub-Arctic Canada
 summary: What is the fate of carbon in taiga shield lakes?
-tags:
-- DOM
-- Carbon cycling
-- Greenhouse gases
-- Water quality
-- Northwest Territories
+tags: [DOM, Carbon cycling, DOM composition, Northwest Territories]
+
 date: "2020-05-01"
 
 # Optional external URL for project (replaces project detail page).

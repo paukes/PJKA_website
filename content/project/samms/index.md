@@ -1,11 +1,7 @@
 ---
 title: Sub-Arctic Metal Mobility Study (SAMMS)
 summary: In areas with legacy metal pollution, how does DOM influence the transport of metals from land to water?
-tags:
-- DOM
-- DOM composition
-- Metal mobility
-- Yellowknife
+tags: [Carbon cycling, Water quality, DOM composition]
 date: "2020-05-01"
 
 # Optional external URL for project (replaces project detail page).
