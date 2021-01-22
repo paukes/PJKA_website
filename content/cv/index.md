@@ -1,7 +1,6 @@
 ---
 title: CV
 summary: PDF of current CV.
-date: "2020-05-06"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -14,4 +13,4 @@ header:
   image: ""
 ---
 
-[Pieter Aukes - CV](aukesCV.pdf) (Last updated: March 1, 2020)
+[Pieter Aukes - CV](aukesCV.pdf) (Last updated: Jan. 22, 2021)
