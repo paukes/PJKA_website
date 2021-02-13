@@ -47,4 +47,4 @@ Thanks for the interest in my work! In short, I'm interested in how a changing c
 
 I am currently a Postdoctoral Fellow at Wilfrid Laurier University, working with [Dr. Jason Venkiteswaran](https://jjvenky.github.io/#jjvenky.github.io) and [Dr. Sherry Schiff](https://uwaterloo.ca/environmental-geochemistry/). We use field work and laboratory experiments to gain a better understanding of the processes that govern carbon fate.
 
-When not in the field or lab, you can probably find me out in the woods with my toddler and wife or cycling the rural roads nearby.
+When not in the field or lab, you can probably find me out and about in the mountains or woods with my toddler or cycling the rural roads nearby.

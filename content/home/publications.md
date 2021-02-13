@@ -37,6 +37,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+Aukes, P. J. K., Schiff, S. L., Venkiteswaran, J. J., Elgood, R. J., & J. Spoelstra. 2020. Size‐based characterization of freshwater dissolved organic matter finds similarities within a waterbody type across different Canadian ecozones. Limnology & Oceanography Letters. [doi:10.1002/lol2.10180](https://doi.org/10.1002/lol2.10180)  
+
 
 St. Pierre, K. A., St. Louis, V., Schiff, S. L., Lehnherr, I., Dainard, P. G., Gardner, A. S., Aukes, P. J. K., & M. J. Sharp. 2019. Proglacial freshwaters are significant and previously unrecognized sinks of atmospheric CO2. Proceedings of the National Academy of Sciences 116 (36): 17690-17695. [doi: 10.1073/pnas.1904241116](https://www.pnas.org/content/pnas/116/36/17690.full.pdf)
 
