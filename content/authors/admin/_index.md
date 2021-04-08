@@ -19,7 +19,7 @@ interests:
 - Arctic systems  
 - Biogeochemistry  
 - Science communication  
-name: Pieter J. K. Aukes
+name: Pieter J. K. Aukes (he/his)
 organizations:
 - name: Wilfrid Laurier University
   url: ""
