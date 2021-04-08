@@ -13,4 +13,4 @@ header:
   image: ""
 ---
 
-[Pieter Aukes - CV](aukesCV.pdf) (Last updated: Jan. 22, 2021)
+[Pieter Aukes - CV](aukesCV.pdf) (Last updated: April 6, 2021)
